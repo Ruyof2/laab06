@@ -74,6 +74,7 @@ dn <- dennys %>%
 
 
 For La Quinta
+
 ```{r}
 lq <- laquinta %>%
     mutate(country = "United States")
